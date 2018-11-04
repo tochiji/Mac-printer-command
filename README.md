@@ -22,5 +22,5 @@ Macでプリンターを使う際のコマンド一覧。下記で確認
 >FXBookletTray/Right Bottom Tray (Booklet Maker): False *True  
 >FXTriFoldOutputTray/C Fold / Z Fold Tray: *False True  
 >FXMailboxTray/Mailbox Finisher: *False True  
->  ... 
+>  ...  
 >FXColorDensityBlackHigh/Shadows (K): +3 +2 +1 *0 -1 -2 -3  
